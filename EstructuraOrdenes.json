@@ -1,0 +1,17 @@
+{
+  "OrderID": 2024,
+  "Address": "calle falsa 1234",
+  "Status": "Processing",
+  "Articles": [
+    {
+      "Name": "Auto",
+      "Quantity": 1,
+      "Dangerous": false
+    },
+    {
+      "Name": "Moto",
+      "Quantity": 2,
+      "Dangerous": true
+    }
+  ]
+}
